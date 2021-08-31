@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+### Things I dislike:
+1. Lists
+2. Irony
